@@ -1,0 +1,19 @@
+{
+  "PREFIX": ".",
+  "WORK_TYPE": "public",
+  "SUDO": "917012984396",
+  "LANGUAGE": "english",
+  "ALWAYS_ONLINE": false,
+  "AUTO_STATUS_VIEW": true,
+  "READ_MESSAGES": false,
+  "CALL_BLOCK": false,
+  "SAVE_STATUS": false,
+  "STATUS_REPLY": false,
+  "STATUS_REACTION": true,
+  "LOGS": false,
+  "PM_BLOCK": false,
+  "DISABLE_PM": false,
+  "MENU_TYPE": "video",
+  "VERSION": "2.0.1",
+  "MAX_RETRIES": "3"
+}
