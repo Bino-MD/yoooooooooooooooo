@@ -14,6 +14,7 @@
   "PM_BLOCK": false,
   "DISABLE_PM": false,
   "MENU_TYPE": "video",
-  "VERSION": "2.0.1",
-  "MAX_RETRIES": "3"
+  "VERSION": "99.99.99",
+  "MAX_RETRIES": "3",
+  "PING": "SPARKY"
 }
